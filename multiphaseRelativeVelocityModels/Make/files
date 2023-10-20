@@ -1,0 +1,7 @@
+terminalVelocitySettlingModels/terminalvelocitySettlingModel.C
+terminalVelocitySettlingModels/Ferguson.C
+settlingModels/settlingModel.C
+settlingModels/simple.C
+multiphaseRelativeVelocityModel/multiphaseRelativeVelocityModel.C
+
+LIB = $(FOAM_USER_LIBBIN)/libmultiphaseRelativeVelocityModels

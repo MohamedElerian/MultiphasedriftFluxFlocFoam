@@ -1,0 +1,4 @@
+phaseDrift/phaseDrift.C
+multiphaseDriftMixture_New.C
+
+LIB = $(FOAM_USER_LIBBIN)/libmultiphaseDriftMixture
